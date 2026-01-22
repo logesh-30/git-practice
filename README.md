@@ -1,1 +1,1 @@
-This repository is created for Git lab practice - MAINTAINER VERSION.
+This repository is created for Git lab practice - MERGED VERSION.
